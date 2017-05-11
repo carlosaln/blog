@@ -145,7 +145,7 @@ More about Lambda tagging can be found in the [function docs](https://serverless
 
 The AWS implementation of the `info` command now defines more fine-grained lifecycle events you can hook into.
 
-Each information group that is returned when the results are gathered exposes it's own lifecycle event:
+Each information group that is returned when the results are gathered exposes its own lifecycle event:
 
 ```
 -> info:info
